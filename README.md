@@ -1,0 +1,36 @@
+
+# Business Inside 360 Dashboard
+
+## Situation
+Atliq Hardware, a prominent player in the hardware industry, distributes a diverse range of products such as keyboards, mice, laptops, and more across various major markets. As the company grows, managing vast amounts of data using Excel becomes increasingly challenging. Traditional spreadsheets make it difficult to analyze trends, identify patterns, and present insights effectively to stakeholders.
+
+## Task
+The main objective was to create a comprehensive Power BI dashboard to visualize Atliq Hardware's data across key areas such as sales, finance, marketing, and supply chain. This dashboard aimed to provide clear and concise visualizations to help stakeholders make informed decisions.
+
+## Action
+To address the challenge, I undertook the following steps:
+1. **Data Collection**: Gathered data from two primary sources:
+    - MySQL Server: Extracted relevant sales data directly from Atliq Hardware's MySQL database.
+    - Excel: Incorporated specific datasets maintained in Excel spreadsheets.
+2. **Data Modeling**: Built a robust data model to integrate and structure the collected data.
+3. **Dashboard Development**: Created interactive and user-friendly Power BI dashboards. These included various visualizations to highlight key performance metrics and trends.
+
+## Result
+The Power BI dashboard successfully transformed how Atliq Hardware managed and visualized their data. Key outcomes included:
+- Enhanced data analysis capabilities, allowing for better trend identification and pattern recognition.
+- Improved stakeholder engagement through clear and concise visual presentations.
+- More informed decision-making across sales, finance, marketing, and supply chain departments.
+
+## Project Files
+The source files for this project are available on my [GitHub page](https://github.com/yourusername/your-repo).
+
+## Presentation and Dashboard
+- [Project Report PDF](./path/to/Report.pdf)
+- [Power BI Dashboard PDF](./path/to/Dashboard.pdf)
+
+## How to Use
+1. Clone the repository:
+    \`\`\`bash
+    git clone https://github.com/yourusername/your-repo.git
+    \`\`\`
+2. Open the Power BI file to explore the interactive dashboard.
