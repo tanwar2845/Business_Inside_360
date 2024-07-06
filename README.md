@@ -21,16 +21,6 @@ The Power BI dashboard successfully transformed how Atliq Hardware managed and v
 - Improved stakeholder engagement through clear and concise visual presentations.
 - More informed decision-making across sales, finance, marketing, and supply chain departments.
 
-## Project Files
-The source files for this project are available on my [GitHub page](https://github.com/yourusername/your-repo).
-
 ## Presentation and Dashboard
-- [Project Report PDF](./path/to/Report.pdf)
-- [Power BI Dashboard PDF](./path/to/Dashboard.pdf)
+- [Power BI Dashboard][(./path/to/Dashboard.pdf](https://app.powerbi.com/view?r=eyJrIjoiYjg3MzVkZDYtNGRhNi00MDNiLWFlODUtODM0NmY4ZGEyNGY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
-## How to Use
-1. Clone the repository:
-    \`\`\`bash
-    git clone https://github.com/yourusername/your-repo.git
-    \`\`\`
-2. Open the Power BI file to explore the interactive dashboard.
