@@ -2,7 +2,7 @@
 # Business Inside 360 Dashboard
 
 ## Situation
-Atliq Hardware, a prominent player in the hardware industry, distributes a diverse range of products such as keyboards, mice, laptops, and more across various major markets. As the company grows, managing vast amounts of data using Excel becomes increasingly challenging. Traditional spreadsheets make it difficult to analyze trends, identify patterns, and present insights effectively to stakeholders.
+Atliq Hardware, a prominent player in the hardware industry, distributes a diverse range of products such as keyboards, mouse, laptops, and more across various major markets. As the company grows, managing vast amounts of data using Excel becomes increasingly challenging. Traditional spreadsheets make it difficult to analyze trends, identify patterns, and present insights effectively to stakeholders.
 
 ## Task
 The main objective was to create a comprehensive Power BI dashboard to visualize Atliq Hardware's data across key areas such as sales, finance, marketing, and supply chain. This dashboard aimed to provide clear and concise visualizations to help stakeholders make informed decisions.
