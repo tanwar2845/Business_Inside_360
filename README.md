@@ -1,5 +1,6 @@
-## Presentation and Dashboard
-- [Power BI Dashboard][(./path/to/Dashboard.pdf](https://app.powerbi.com/view?r=eyJrIjoiYjg3MzVkZDYtNGRhNi00MDNiLWFlODUtODM0NmY4ZGEyNGY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+# Presentation and Dashboard
+- [Power BI Dashboard]
+[(./path/to/Dashboard.pdf](https://app.powerbi.com/view?r=eyJrIjoiYjg3MzVkZDYtNGRhNi00MDNiLWFlODUtODM0NmY4ZGEyNGY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 # Business Inside 360 Dashboard
 
