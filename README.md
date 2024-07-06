@@ -15,7 +15,7 @@ To address the challenge, I undertook the following steps:
 2. **Data Modeling**: Built a robust data model to integrate and structure the collected data.
 3. **Dashboard Development**: Created interactive and user-friendly Power BI dashboards. These included various visualizations to highlight key performance metrics and trends.
 
-![Dashboard]([https://github.com/tanwar2845/vrinda_store/blob/main/Screenshot%202024-06-05%20121934.png](https://github.com/tanwar2845/AtliQ-Hardware-Sales-Analysis/blob/main/Screenshot%202024-07-04%20092746.png))
+![Dashboard](Screenshot 2024-07-04 092746.png)
 
 ## Result
 The Power BI dashboard successfully transformed how Atliq Hardware managed and visualized their data. Key outcomes included:
