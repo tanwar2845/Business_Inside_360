@@ -8,7 +8,7 @@
 ## Situation
 Atliq Hardware, a prominent player in the hardware industry, distributes a diverse range of products such as keyboards, mouse, laptops, and more across various major markets. As the company grows, managing vast amounts of data using Excel becomes increasingly challenging. Traditional spreadsheets make it difficult to analyze trends, identify patterns, and present insights effectively to stakeholders.
 
-![problem](https://github.com/tanwar2845/AtliQ-Hardware-Sales-Analysis/blob/main/Problem%20facing%20by%20AtliQ%20hardwre.jpg)
+![problem](https://github.com/tanwar2845/AtliQ-Hardware-Sales-Analysis/blob/main/Problem%20facing%20by%20AtliQ%20hardwre.jpg](https://github.com/tanwar2845/AtliQ-Hardware-Sales-Analysis/blob/main/images/Problem%20facing%20by%20AtliQ%20hardwre.jpg)
 
 ## Task
 The main objective was to create a comprehensive Power BI dashboard to visualize Atliq Hardware's data across key areas such as sales, finance, marketing, and supply chain. This dashboard aimed to provide clear and concise visualizations to help stakeholders make informed decisions.
