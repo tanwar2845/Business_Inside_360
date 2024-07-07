@@ -29,6 +29,5 @@ The Power BI dashboard successfully transformed how Atliq Hardware managed and v
 - Improved stakeholder engagement through clear and concise visual presentations.
 - More informed decision-making across sales, finance, marketing, and supply chain departments.
 
-## Presentation and Dashboard
-- [Power BI Dashboard][(./path/to/Dashboard.pdf](https://app.powerbi.com/view?r=eyJrIjoiYjg3MzVkZDYtNGRhNi00MDNiLWFlODUtODM0NmY4ZGEyNGY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
-
+## Video Presentation
+- [video presentation](https://github.com/tanwar2845/AtliQ-Hardware-Sales-Analysis/blob/main/Video%20presentation/Video%20Presentation.mp4)
