@@ -1,4 +1,4 @@
-📌 [Video Presentation](https://github.com/tanwar2845/AtliQ-Hardware-Sales-Analysis/blob/main/Video%20presentation/Video%20Presentation.mp4)
+📌 [Video Presentation](https://www.linkedin.com/posts/kuldeep-tanwar2845_%F0%9D%97%A3%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%95%F0%9D%97%9C-%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%B7%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%81-%F0%9D%97%96%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9-activity-7216313955533643776-KENp?utm_source=share&utm_medium=member_desktop)
 📌 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjg3MzVkZDYtNGRhNi00MDNiLWFlODUtODM0NmY4ZGEyNGY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Business Inside 360 Dashboard
@@ -30,7 +30,7 @@ The Power BI dashboard successfully transformed how Atliq Hardware managed and v
 [(./path/to/Dashboard.pdf](https://app.powerbi.com/view?r=eyJrIjoiYjg3MzVkZDYtNGRhNi00MDNiLWFlODUtODM0NmY4ZGEyNGY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 ## Video Presentation
-- [video presentation](https://github.com/tanwar2845/AtliQ-Hardware-Sales-Analysis/blob/main/Video%20presentation/Video%20Presentation.mp4)
+- [video presentation](https://www.linkedin.com/posts/kuldeep-tanwar2845_%F0%9D%97%A3%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%95%F0%9D%97%9C-%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%B7%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%81-%F0%9D%97%96%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9-activity-7216313955533643776-KENp?utm_source=share&utm_medium=member_desktop)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-tanwar2845)  
