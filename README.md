@@ -1,5 +1,5 @@
 📌 [Video Presentation](https://github.com/tanwar2845/AtliQ-Hardware-Sales-Analysis/blob/main/Video%20presentation/Video%20Presentation.mp4)
-📌 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjg3MzVkZDYtNGRhNi00MDNiLWFlODUtODM0NmY4ZGEyNGY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+📌 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjg3MzVkZDYtNGRhNi00MDNiLWFlODUtODM0NmY4ZGEyNGY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Business Inside 360 Dashboard
 
@@ -19,7 +19,7 @@ To address the challenge, I undertook the following steps:
 2. **Data Modeling**: Built a robust data model to integrate and structure the collected data.
 3. **Dashboard Development**: Created interactive and user-friendly Power BI dashboards. These included various visualizations to highlight key performance metrics and trends.
 
-![Dashboard](https://github.com/tanwar2845/AtliQ-Hardware-Sales-Analysis/blob/main/images/Screenshot%202024-07-04%20092746.png)
+![Power BI Dashboard](https://github.com/tanwar2845/AtliQ-Hardware-Sales-Analysis/blob/main/images/Screenshot%202024-07-04%20092746.png)
 
 ## Result
 The Power BI dashboard successfully transformed how Atliq Hardware managed and visualized their data. Key outcomes included:
@@ -30,4 +30,4 @@ The Power BI dashboard successfully transformed how Atliq Hardware managed and v
 [(./path/to/Dashboard.pdf](https://app.powerbi.com/view?r=eyJrIjoiYjg3MzVkZDYtNGRhNi00MDNiLWFlODUtODM0NmY4ZGEyNGY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 ## Video Presentation
-- [video presentation](https://github.com/tanwar2845/AtliQ-Hardware-Sales-Analysis/blob/main/Video%20presentation/Video%20Presentation.mp4)
+![video presentation](https://github.com/tanwar2845/AtliQ-Hardware-Sales-Analysis/blob/main/Video%20presentation/Video%20Presentation.mp4)
